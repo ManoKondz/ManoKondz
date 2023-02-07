@@ -1,4 +1,4 @@
-### Hello there, sou o Enzo Gabriel! 👋
+### Hello there, sou Enzo Gabriel! 👋
 
 - 🔭  Estou fazendo alguns projetos em python!
 - 🌱 Estou aprendendo python e C++
