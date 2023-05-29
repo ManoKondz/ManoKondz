@@ -1,4 +1,4 @@
-# 💫 About Me:
+# A long time ago in a 🌌 galaxy far, far away…
 🔭 I’m currently working on my class projects.<br>👯 I’m looking to collaborate on projects of my classmates.<br>🤝 I’m looking for help with Python, C and Web Projects.<br>🌱 I’m currently learning Python, C, JS, <br>WEB Development and others.<br>⚡ Fun fact: I like Star Wars,<br>and its rich universe is really huge and adored, <br>with a rich history and countless stories.
 
 
