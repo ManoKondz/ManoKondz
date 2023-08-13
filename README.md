@@ -7,6 +7,7 @@
 <img align="right" height="350m" src="https://raw.githubusercontent.com/gist/ManoKondz/f0a5f358a68fcf3d7b50a25ad8e1ff81/raw/9a3650edd1b7b72dccf0c253dbe13a5e141f8b30/GitHubCard.svg"/>
 
 <br/>
+<br/>
 
 - 🔥  Tech enthusiast
 
@@ -71,6 +72,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
 
-
-
-![snake gif](https://github.com/ManoKondz/ManoKondz/blob/output/github-contribution-grid-snake.svg)
