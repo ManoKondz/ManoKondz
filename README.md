@@ -73,4 +73,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
 
 
-![snake animation](https://github.com/<ManoKondz>/<ManoKondz>/blob/output/github-contribution-grid-snake2.svg)
+ ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
