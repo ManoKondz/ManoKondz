@@ -24,13 +24,13 @@
 
 - 🔥  Tech enthusiast
 
-- 🔭 I’m currently studying Figma, Arduino & Git
+- 🔭 I’m currently studying **Figma, Arduino & Git**
 
 - ▶️ I (not) regularly post some things on instagram
 
 - 💬 Ask me about **C/C++, Python, Java & Arduino**
 
-- ⚡ Fun fact **I HAVE A BAD FEELING ABOUT THIS**
+- ⚡ Fun fact **I Have a Bad Feeling About This**
 
 <br/>
 <br/>
