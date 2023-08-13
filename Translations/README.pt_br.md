@@ -6,6 +6,7 @@
 
 <img align="right" height="570m" src="https://raw.githubusercontent.com/gist/ManoKondz/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
 
+<br/>
 
 <p>
   Sou Enzo Gabriel Rodrigues Belmino Moreira, natural de Fortaleza, Brasil, e estudante de Informática no IFCE. Minha paixão pela tecnologia me levou a explorar o desenvolvimento de aplicações web e mobile, assim como a automação residencial e projetos com Arduino. Compartilho conhecimento através de projetos open source, incluindo uma calculadora de notas para estudantes. Além da programação, minha dedicação à música e o gosto por trabalhar em carros complementam meu perfil diversificado. Tenho grandes aspirações na área tecnológica, buscando sempre soluções inovadoras e colaborando ativamente para o crescimento da comunidade.
@@ -23,7 +24,6 @@
 
 - ⚡ Fato engraçado **Eu tenho um mal pressentimento sobre isso**
 
-<br/>
 <br/>
 <br/>
 
