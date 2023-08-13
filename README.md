@@ -6,6 +6,7 @@
 
 <img align="right" height="520m" src="https://raw.githubusercontent.com/gist/ManoKondz/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
 
+<br/>
 
 <p>
   I'm Enzo Gabriel Rodrigues Belmino Moreira, born in Fortaleza,
@@ -32,7 +33,6 @@
 
 - ⚡ Fun fact **I Have a Bad Feeling About This**
 
-<br/>
 <br/>
 <br/>
 <br/>
