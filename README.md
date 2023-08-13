@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" height="570m" src="https://raw.githubusercontent.com/gist/ManoKondz/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
+<img align="right" height="530m" src="https://raw.githubusercontent.com/gist/ManoKondz/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
 
 
 <p>
