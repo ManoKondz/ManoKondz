@@ -2,6 +2,29 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=A+long+time+ago+in+a+🌌+galaxy+far,+far+away…;Hello,+My+name+is+Enzo+Gabriel;I'm+16+years+old;I'm+from+Brazil;IT+at+IFCE;Be+Welcome!+:%29;May+the+force+💪+be+with+you)](https://git.io/typing-svg)
 
+<br/>
+
+<img align="right" height="350m" src="https://raw.githubusercontent.com/gist/ManoKondz/f0a5f358a68fcf3d7b50a25ad8e1ff81/raw/9a3650edd1b7b72dccf0c253dbe13a5e141f8b30/GitHubCard.svg"/>
+
+<br/>
+
+- 🔥  Tech enthusiast
+
+- 🔭 I’m currently studying Figma, Arduino & Git
+
+- ▶️ I (not) regularly post some things on instagram
+
+- 💬 Ask me about **C/C++, Python, Java & Arduino**
+
+- ⚡ Fun fact **Tha 2 of Amerikaz Most Wanted**
+
+<br/>
+<br/>
+<br/>
+
+# GitHub Analytics:
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManoKondz&bg_color=0d1117&color=0000FF&line=00BFFF&point=000080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
@@ -9,9 +32,12 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ManoKondz&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=1E90FF&text_color=00BFFF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoKondz&layout=compact&hide_border=true&title_color=0000FF&text_color=00BFFF&bg_color=0d1117" />
+    <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoKondz&theme=tokyonight" />
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoKondz&theme=tokyonight" />
+  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=ManoKondz&theme=tokyonight&hide_border=true" />
 </div>
+
+<br/>
 
 <div align="center"> 
 <a href="https://instagram.com/omanokondz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -24,12 +50,18 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
+ 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
