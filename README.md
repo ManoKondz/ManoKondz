@@ -4,11 +4,23 @@
 
 <br/>
 
-<img align="right" height="550m" src="https://raw.githubusercontent.com/gist/ManoKondz/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
+<img align="right" height="570m" src="https://raw.githubusercontent.com/gist/ManoKondz/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
+
+
+<p>
+  I'm Enzo Gabriel Rodrigues Belmino Moreira, born in Fortaleza,
+  Brazil, and currently a student of computing at IFCE. My tech 
+  enthusiasm led me to dive into web and mobile development, as 
+  well as home automation and Arduino projects. I share knowledge 
+  through open-source endeavors, including a student-focused grade 
+  calculator. Beyond coding, my devotion to music and joy in 
+  tinkering with cars round out my diverse profile. I hold high 
+  aspirations in the tech realm, always seeking innovative 
+  solutions and actively collaborating to nurture the community's 
+  growth.
+</p>
 
 <br/>
-
-<p>Sou Enzo Gabriel Rodrigues Belmino Moreira, natural de Fortaleza, Brasil, e estudante de Informática no IFCE. Minha paixão pela tecnologia me levou a explorar o desenvolvimento de aplicações web e mobile, assim como a automação residencial e projetos com Arduino. Compartilho conhecimento através de projetos open source, incluindo uma calculadora de notas para estudantes. Além da programação, minha dedicação à música e o gosto por trabalhar em carros complementam meu perfil diversificado. Tenho grandes aspirações na área tecnológica, buscando sempre soluções inovadoras e colaborando ativamente para o crescimento da comunidade.</p>
 
 - 🔥  Tech enthusiast
 
