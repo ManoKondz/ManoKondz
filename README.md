@@ -49,7 +49,6 @@
 <div align="center">  
   <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoKondz&theme=tokyonight" />
   <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoKondz&theme=tokyonight" />
-  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=ManoKondz&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
