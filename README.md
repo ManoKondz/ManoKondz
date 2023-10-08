@@ -25,7 +25,7 @@
 
 - 🔥  Tech enthusiast
 
-- 🔭 I’m currently studying **Figma, Arduino & Git**
+- 🔭 I’m currently studying **Figma, Rust & Flutter**
 
 - ▶️ I (not) regularly post some things on instagram
 
