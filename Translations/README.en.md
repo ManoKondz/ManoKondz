@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=A+long+time+ago+in+a+🌌+galaxy+far,+far+away…;Hello,+My+name+is+Enzo+Gabriel;I'm+16+years+old;I'm+from+Brazil;IT+at+IFCE;Be+Welcome!+:%29;May+the+force+💪+be+with+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=A+long+time+ago...;In+a+🌌+galaxy+far,+far+away…;Hello+there;My+name+is+Enzo+Gabriel;I'm+16+years+old;I'm+from+Brazil;IT+at+IFCE;Be+Welcome!+:%29;May+the+force+💪+be+with+you)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 - 🔥  Tech enthusiast
 
-- 🔭 I’m currently studying **Figma, Arduino & Git**
+- 🔭 I’m currently studying **Figma, Rust & Flutter**
 
 - ▶️ I (not) regularly post some things on instagram
 
@@ -47,7 +47,7 @@
 </p>
 
 <div align="center">  
-    <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoKondz&theme=tokyonight" />
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoKondz&theme=tokyonight" />
   <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoKondz&theme=tokyonight" />
   <img width=60% align="center"  src="https://streak-stats.demolab.com?user=ManoKondz&theme=tokyonight&hide_border=true" />
 </div>
@@ -60,7 +60,7 @@
 <a href="https://www.linkedin.com/in/enzo-gabriel-960948286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-# 💻 Tech Stack:
+ # 💻 Tech Stack:
  ## My languages:
  
 <div>
@@ -100,6 +100,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
 </div> 
+
  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -110,6 +111,6 @@
 ##
 
 #### _Read this in [other languages](translations.md)._
-<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](Translations/README.pt_br.md)</kbd>
+<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.pt_br.md)</kbd>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
