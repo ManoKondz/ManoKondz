@@ -61,7 +61,7 @@
  </div>
 
  # 💻 Tech Stack:
- ## Minhas Linguagens:
+ ## My languages:
  
 <div>
   
@@ -75,7 +75,7 @@
       
 </div>
 
-## Minhas Tecnologias:
+## My Tecnologies:
 
 <br>
 <div>
@@ -90,7 +90,7 @@
   
 </div>
 
-## Aprendendo:
+## Learning:
 
 <div>
 
@@ -99,7 +99,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
-</div>
+</div> 
 
  
 <div align="center">
