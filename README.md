@@ -67,7 +67,7 @@
       
 </div>
 
-## My Tecnologies:
+## My Technologies:
 
 <br>
 <div>
