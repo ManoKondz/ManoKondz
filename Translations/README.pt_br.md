@@ -16,7 +16,7 @@
 
 - 🔥  Entusiasta da tecnologia
 
-- 🔭 Estou estudando atualemente **Figma, Rust & Flutter**
+- 🔭 Estou estudando atualmente **Figma, Rust & Flutter**
 
 - ▶️ Eu (não) posto coisas regularmente no instagram
 
