@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=Há+muito+tempo...;Em+uma+🌌+galáxia+muito+muito+distante...;Olá,+meu+nome+é+Enzo+Gabriel;Tenho+16+anos+de+idade;Sou+do+Brasil;Informática+no+IFCE;Seja+Bem-Vindo!+:%29;Que+a+força+💪+esteja+com+você!)](https://git.io/typing-svg)
 
-<br/>
-
 <img align="right" height="570m" src="https://raw.githubusercontent.com/gist/ManoKondz/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
-
 <br/>
 
 <p>
@@ -25,10 +22,17 @@
 - ⚡ Fato engraçado **Eu tenho um mal pressentimento sobre isso**
 
 <br/>
-<a href="https://instagram.com/omanokondz" target="_blank"><img width=5% src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png"</a>
-<a href = "mailto:egabrielrbm@gmail.com"> <img width=5% src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" target="_blank"></a>
-<a href="https://www.linkedin.com/in/enzo-gabriel-960948286/" target="_blank"><img width=6% src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" target="_blank"></a> 
 <br/>
+<br/>
+
+<div align="right" >
+  <br/>
+<a href="https://instagram.com/omanokondz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:egabrielrbm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/enzo-gabriel-960948286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br/>
+</div>
+
 
 
 # 💻 Tech Stack:
