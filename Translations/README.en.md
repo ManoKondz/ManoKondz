@@ -32,17 +32,17 @@
 - 💬 Ask me about **C/C++, Python, Java & Arduino**
 
 - ⚡ Fun fact **I Have a Bad Feeling About This**
-<br>
 
-<div align="left"> 
-<a href="https://instagram.com/omanokondz" target="_blank"><img width=5% src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png"</a>
-<a href = "mailto:egabrielrbm@gmail.com"> <img width=5% src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" target="_blank"></a>
-<a href="https://www.linkedin.com/in/enzo-gabriel-960948286/" target="_blank"><img width=6% src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" target="_blank"></a> 
+<br/>
+<br/>
+
+<div align="right" >
+  <br/>
+<a href="https://instagram.com/omanokondz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:egabrielrbm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/enzo-gabriel-960948286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br/>
 </div>
-
-<br/>
-<br/>
-<br/>
 
 
 
