@@ -1,103 +1,71 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF\&size=40\&center=true\&vCenter=true\&width=1000\&lines=Há+muito+tempo...;Em+uma+🌌+galáxia+muito,+muito+distante…;Olá!;Meu+nome+é+Enzo+Gabriel;Tenho+19+anos;Sou+do+Brasil;Engenharia+de+Telecomunicações+no+IFCE;Que+a+Força+esteja+com+você)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=Há+muito+tempo...;Em+uma+🌌+galáxia+muito+muito+distante...;Olá,+meu+nome+é+Enzo+Gabriel;Tenho+16+anos+de+idade;Sou+do+Brasil;Informática+no+IFCE;Seja+Bem-Vindo!+:%29;Que+a+força+💪+esteja+com+você!)](https://git.io/typing-svg)
-
-<img align="right" height="570m" src="https://raw.githubusercontent.com/gist/ManoKondz/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
 <br/>
 
+### 👨‍💻 Sobre Mim
+
 <p>
-  Sou Enzo Gabriel Rodrigues Belmino Moreira, natural de Fortaleza, Brasil, e estudante de Informática no IFCE. Minha paixão pela tecnologia me levou a explorar o desenvolvimento de aplicações web e mobile, assim como a automação residencial e projetos com Arduino. Compartilho conhecimento através de projetos open source, incluindo uma calculadora de notas para estudantes. Além da programação, minha dedicação à música e o gosto por trabalhar em carros complementam meu perfil diversificado. Tenho grandes aspirações na área tecnológica, buscando sempre soluções inovadoras e colaborando ativamente para o crescimento da comunidade.
+      Meu nome é <strong>Enzo Gabriel Rodrigues Belmino Moreira</strong> e sou desenvolvedor de software e entusiasta da tecnologia, natural de Fortaleza, Ceará. Sou <strong>Técnico em Informática</strong> pelo IFCE e atualmente curso <strong>Engenharia de Telecomunicações</strong>, onde continuo ampliando meus conhecimentos em desenvolvimento de software, redes de computadores, sistemas embarcados e conectividade.
+      Sou apaixonado por desenvolver soluções que integrem desenvolvimento de software, inteligência artificial, computação em nuvem, telecomunicações e automação. Ao longo da minha trajetória, participei de projetos envolvendo <strong>IA generativa, desenvolvimento de chatbots com Botpress, engenharia de software, infraestrutura de TI e iniciativas de pesquisa, desenvolvimento e inovação</strong> no IFCE.
+      Sou movido pela curiosidade e gosto de entender como as tecnologias funcionam "por baixo dos panos". Este GitHub é o espaço onde compartilho projetos pessoais, trabalhos acadêmicos, experimentos e ideias que surgem ao longo da minha jornada de aprendizado.
+      Além da programação, tenho interesse por <strong>redes de computadores, sistemas embarcados, automação, carros</strong> e tecnologia em geral. Acredito que a inovação acontece quando diferentes áreas se conectam para resolver problemas reais, e estou sempre em busca de novos desafios, oportunidades para aprender e projetos significativos para colaborar.
 </p>
 
 <br/>
 
-- 🔥  Entusiasta da tecnologia
+### 🔥 Entusiasta de Tecnologia
 
-- 🔭 Estou estudando atualmente **Figma, Rust & Flutter**
-
-- ▶️ Eu (não) posto coisas regularmente no instagram
-
-- 💬 Discuta comigo sobre **C/C++, Python, Java & Arduino**
-
-- ⚡ Fato engraçado **Eu tenho um mal pressentimento sobre isso**
+* 🌱 Atualmente explorando **Rust, SwiftUI e macOS**
+* 💬 Pergunte-me sobre **C/C++, Python, Java e Arduino**
+* 🎸 Música e **mexer em carros** são alguns dos meus hobbies
+* ⚡ Curiosidade: **Tenho um mau pressentimento sobre isso**
 
 <br/>
-<br/>
 
-<div align="right" >
-  <br/>
-<a href="https://instagram.com/omanokondz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:egabrielrbm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/enzo-gabriel-960948286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br/>
+## 📊 Estatísticas do GitHub
+
+<div align="center">  
+  <img width=40% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoKondz&theme=tokyonight" />
+  <img width=40% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoKondz&theme=tokyonight" />
+  <img width=60% src="https://streak-stats.demolab.com?user=ManoKondz&theme=tokyonight&hide_border=true" />
 </div>
 
+<br/>
 
+## 🌐 Entre em Contato
 
-# 💻 Tech Stack:
- ## Minhas Linguagens:
- 
+<div align="center"> 
+<a href="https://www.instagram.com/enzo.rodribel?igsh=MWNncHhkbDVzZTUxcw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:egabrielrbm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/enzo-gabriel-960948286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+<br/>
+
+## 💻 Tecnologias
+
+### Linguagens
+
 <div>
-  
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      
 </div>
 
-## Minhas Tecnologias:
-
-<br>
-<div>
-
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  
-</div>
-
-## Aprendendo:
+### Ferramentas e Tecnologias
 
 <div>
-
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  
-</div>
-<br>
-
-# <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       Dados do GitHub:
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManoKondz&bg_color=0d1117&color=0000FF&line=00BFFF&point=000080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">  
-    <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoKondz&theme=tokyonight" />
-  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoKondz&theme=tokyonight" />
-  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=ManoKondz&theme=tokyonight&hide_border=true" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
 
-<br/>
+#### _Read this in [other languages](translations.md)._
 
-<div align="center">
-<br><p align="centre"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ManoKondz}/count.svg" /></p> 
-<br>
-</div>
-
-##
-
-#### _Leia em [outros idiomas](translations.md):_
-<kbd>[<img title="Inglês" alt="Inglês" src="https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png" width="60">](README.en.md)</kbd>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
+<kbd>[<img title="English" alt="English" src="https://flagsapi.com/US/flat/64.png" width="18">](../README.md)</kbd>

@@ -1,119 +1,69 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=A+long+time+ago...;In+a+🌌+galaxy+far,+far+away…;Hello+there;My+name+is+Enzo+Gabriel;I'm+16+years+old;I'm+from+Brazil;IT+at+IFCE;Be+Welcome!+:%29;May+the+force+💪+be+with+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=A+long+time+ago...;In+a+🌌+galaxy+far,+far+away…;Hello+there;My+name+is+Enzo+Gabriel;I'm+19+years+old;I'm+from+Brazil;Telecommunications+at+IFCE;May+the+force+be+with+you)](https://git.io/typing-svg)
 
 <br/>
 
-<img align="right" height="520m" src="https://raw.githubusercontent.com/gist/ManoKondz/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
-
-<br/>
+### 👨‍💻 About Me
 
 <p>
-  I'm Enzo Gabriel Rodrigues Belmino Moreira, born in Fortaleza,
-  Brazil, and currently a student of computing at IFCE. My tech 
-  enthusiasm led me to dive into web and mobile development, as 
-  well as home automation and Arduino projects. I share knowledge 
-  through open-source endeavors, including a student-focused grade 
-  calculator. Beyond coding, my devotion to music and joy in 
-  tinkering with cars round out my diverse profile. I hold high 
-  aspirations in the tech realm, always seeking innovative 
-  solutions and actively collaborating to nurture the community's 
-  growth.
+      My name is <strong>Enzo Gabriel Rodrigues Belmino Moreira</strong>, and I'm a software developer and technology enthusiast from Fortaleza, Brazil. I hold a <strong>Technical Degree in Informatics</strong> from IFCE and I'm currently pursuing a <strong>Bachelor's degree in Telecommunications Engineering</strong>, where I continue expanding my knowledge in software, computer networks, embedded systems, and connectivity.
+      I'm passionate about building solutions that combine software development, artificial intelligence, cloud computing, telecommunications, and automation. Throughout my journey, I've contributed to projects involving <strong>generative AI, chatbot development with Botpress, software engineering, IT infrastructure, and research, development, and innovation initiatives</strong> at IFCE.
+      I'm driven by curiosity and enjoy understanding how technologies work under the hood. This GitHub is where I share personal projects, academic work, experiments, and ideas that emerge throughout my learning journey.
+      Beyond programming, I'm interested in <strong>computer networks, embedded systems, automation, cars, and technology</strong> in general. I believe innovation happens when different fields come together to solve real-world problems, and I'm always looking for new challenges, opportunities to learn, and meaningful projects to collaborate on.
 </p>
 
 <br/>
 
-- 🔥  Tech enthusiast
-
-- 🔭 I’m currently studying **Figma, Rust & Flutter**
-
-- ▶️ I (not) regularly post some things on instagram
-
+### 🔥 Tech Enthusiast
+- 🌱 Currently exploring **Rust, SwiftUI & MacOS**
 - 💬 Ask me about **C/C++, Python, Java & Arduino**
-
-- ⚡ Fun fact **I Have a Bad Feeling About This**
+- 🎸 Music and **tinkering with cars** are my hobbies
+- ⚡ Fun fact: **I Have a Bad Feeling About This**
 
 <br/>
-<br/>
 
-<div align="right" >
-  <br/>
-<a href="https://instagram.com/omanokondz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:egabrielrbm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/enzo-gabriel-960948286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br/>
+## 📊 GitHub Analytics:
+
+<div align="center">  
+  <img width=40% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoKondz&theme=tokyonight" />
+  <img width=40% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoKondz&theme=tokyonight" />
+  <img width=60% src="https://streak-stats.demolab.com?user=ManoKondz&theme=tokyonight&hide_border=true" />
 </div>
 
+<br/>
 
+## 🌐 Connect with Me:
 
- # 💻 Tech Stack:
- ## My languages:
- 
+<div align="center"> 
+<a href="https://www.instagram.com/enzo.rodribel?igsh=MWNncHhkbDVzZTUxcw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:egabrielrbm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/enzo-gabriel-960948286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+<br/>
+
+## 💻 Tech Stack
+
+### Languages:
+
 <div>
-  
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      
 </div>
 
-## My Tecnologies:
-
-<br>
-<div>
-
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  
-</div>
-
-## Learning:
+### Technologies:
 
 <div>
-
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  
-</div> 
-<br>
-
-# <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       GitHub Analytics:
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManoKondz&bg_color=0d1117&color=0000FF&line=00BFFF&point=000080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<div align="center">  
-  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManoKondz&theme=tokyonight" />
-  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoKondz&theme=tokyonight" />
-  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=ManoKondz&theme=tokyonight&hide_border=true" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
 
-<br/>
-
-
-
- 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ManoKondz}/count.svg" /></p> 
-<br>
-</div>
-
-##
-
-#### _Read this in [other languages](translations.md)._
-<kbd>[<img title="Português" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](README.pt_br.md)</kbd>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
+#### _Leia este README em [outras línguas](Translations/translations.md)._
+<kbd>[<img title="Português" alt="Português" src="https://flagsapi.com/BR/flat/64.png" width="18">](Translations/README.pt_br.md)</kbd>
